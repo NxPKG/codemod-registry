@@ -4,7 +4,7 @@
 	"dependencies": {
 		"@effect/schema": "^0.48.4",
 		"glob": "^10.3.10",
-		"tar": "^6.2.0"
+		"tar": "^6.2.1"
 	},
 	"devDependencies": {
 		"@codemod-registry/tsconfig": "workspace:*",
